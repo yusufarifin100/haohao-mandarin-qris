@@ -2,6 +2,8 @@
 
 Solusi lengkap platform kursus bahasa Mandarin online berbasis WordPress & WooCommerce yang dilengkapi dengan **Custom Theme Modern** dan **Plugin Pembayaran QRIS Dinamis Otomatis**.
 
+> 🌐 **Live Interactive Website & QRIS Simulator:** [https://haohao-mandarin-qris.vercel.app](https://haohao-mandarin-qris.vercel.app)
+
 Fitur & cakupan sistem:
 - ✅ Pembuatan responsive website & custom WordPress theme
 - ✅ Pembuatan plugin custom WordPress: **QRIS QR Payment Plugin**
