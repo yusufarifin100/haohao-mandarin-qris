@@ -75,7 +75,7 @@ class WC_Gateway_HaoHao_QRIS extends WC_Payment_Gateway {
                 'title'       => __('Server Key / Secret Key', 'haohao-qris'),
                 'type'        => 'password',
                 'description' => __('Kunci rahasia untuk otentikasi webhook HMAC-SHA256.', 'haohao-qris'),
-                'default'     => 'sk_live_haohao_secret_key_888',
+                'default'     => '',
             ),
             'expiry_mins' => array(
                 'title'       => __('Batas Waktu Pembayaran (Menit)', 'haohao-qris'),

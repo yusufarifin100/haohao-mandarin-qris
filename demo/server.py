@@ -13,7 +13,7 @@ app = FastAPI(title="HaoHao Mandarin - Live Demo & QRIS Simulator", description=
 
 # In-memory orders database for simulation
 orders_db: Dict[str, Dict[str, Any]] = {}
-SECRET_KEY = "sk_live_haohao_secret_key_888"
+SECRET_KEY = os.getenv("HAOHAO_SECRET_KEY", "demo_sandbox_hmac_secret")
 
 class CreateOrderRequest(BaseModel):
     course_name: str
