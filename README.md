@@ -2,7 +2,7 @@
 
 Solusi lengkap platform kursus bahasa Mandarin online berbasis WordPress & WooCommerce yang dilengkapi dengan **Custom Theme Modern** dan **Plugin Pembayaran QRIS Dinamis Otomatis**.
 
-Proyek ini dibangun secara khusus untuk memenuhi seluruh kriteria teknis **Freelance WordPress Developer at HaoHao Mandarin**:
+Fitur & cakupan sistem:
 - ✅ Pembuatan responsive website & custom WordPress theme
 - ✅ Pembuatan plugin custom WordPress: **QRIS QR Payment Plugin**
 - ✅ Dokumentasi mendalam arsitektur alur pembayaran (**QR Payment Flow**)
@@ -81,5 +81,5 @@ File instalasi siap pakai tersedia di folder `/dist`:
 
 ---
 
-## 👨‍💻 Project Developer
-Dipersiapkan untuk seleksi posisi **Freelance WordPress Developer HaoHao Mandarin**.
+## 📄 Lisensi
+Dirilis di bawah lisensi GNU General Public License v2 (GPL-2.0).
