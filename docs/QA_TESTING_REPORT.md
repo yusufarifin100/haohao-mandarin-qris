@@ -1,6 +1,6 @@
 # 🧪 Laporan Pengujian Menyeluruh (QA Testing Report)
 ### Proyek: Website HaoHao Mandarin & WooCommerce QRIS Gateway Plugin
-**QA Engineer / Developer:** Ahmad Yusuf Arifin  
+**QA Testing Team:** HaoHao Mandarin QA Team  
 **Status Pengujian:** PASSED (100% Lulus Uji)  
 **Metodologi:** Blackbox Testing, Responsive Audit, & Webhook Integration Stress Test
 
@@ -42,5 +42,5 @@
 
 ---
 
-**Disetujui oleh:**  
-Ahmad Yusuf Arifin — *Lead WordPress & Full-Stack Developer*
+**Diverifikasi oleh:**  
+Tim Pengembang WordPress HaoHao Mandarin

@@ -16,5 +16,5 @@ Gerbang pembayaran QRIS dinamis untuk platform kursus WordPress & WooCommerce. D
 3. Aktifkan plugin.
 4. Buka **WooCommerce ➔ Settings ➔ Payments ➔ QRIS (Scan & Bayar Instan)** untuk memasukkan Merchant ID dan Secret Key.
 
-## 👨‍💻 Pengembang
-Dikembangkan oleh **Ahmad Yusuf Arifin**
+## 👨‍💻 Lisensi & Hak Cipta
+Dikelola oleh Tim HaoHao Mandarin untuk keperluan integrasi platform edukasi online.

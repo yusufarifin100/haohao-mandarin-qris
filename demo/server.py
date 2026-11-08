@@ -9,7 +9,7 @@ from fastapi.responses import FileResponse, JSONResponse
 from pydantic import BaseModel
 from typing import Optional, Dict, Any
 
-app = FastAPI(title="HaoHao Mandarin - Live Demo & QRIS Simulator", description="Developed by Ahmad Yusuf Arifin")
+app = FastAPI(title="HaoHao Mandarin - Live Demo & QRIS Simulator", description="Interactive Demo for HaoHao Mandarin Platform")
 
 # In-memory orders database for simulation
 orders_db: Dict[str, Dict[str, Any]] = {}

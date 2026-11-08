@@ -35,7 +35,7 @@
     <div class="footer-bottom">
         <div class="container footer-bottom-inner">
             <p>&copy; <?php echo date('Y'); ?> HaoHao Mandarin. Hak Cipta Dilindungi Undang-Undang.</p>
-            <p class="dev-tag">Theme & QRIS Payment Gateway developed by <strong>Ahmad Yusuf Arifin</strong></p>
+            <p class="dev-tag">Modern Theme & QRIS Payment Gateway for HaoHao Mandarin</p>
         </div>
     </div>
 </footer>

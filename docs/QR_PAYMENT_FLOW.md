@@ -1,6 +1,6 @@
 # 📑 Dokumentasi Arsitektur & Alur Pembayaran QRIS
 ### Proyek: HaoHao Mandarin Course Platform & WooCommerce Payment Gateway
-**Penyusun:** Ahmad Yusuf Arifin  
+**Penyusun:** Tim Pengembang HaoHao Mandarin  
 **Versi:** 1.2.0  
 **Standar:** Bank Indonesia (PADG No. 21/18/PADG/2019) & EMVCo QR Code Specification
 
@@ -132,4 +132,4 @@ if (!hash_equals($expected_signature, $incoming_signature)) {
 
 ---
 
-**© 2026 HaoHao Mandarin Project &bull; Dikembangkan oleh Ahmad Yusuf Arifin**
+**© 2026 HaoHao Mandarin Project &bull; Dokumentasi Teknis WordPress & QRIS**

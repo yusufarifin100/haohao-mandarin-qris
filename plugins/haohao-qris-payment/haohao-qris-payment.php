@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: HaoHao QRIS Payment Gateway for WooCommerce
- * Plugin URI: https://github.com/yusufarifin100/haohao-mandarin-qris
+ * Plugin URI: https://haohaomandarin.com/qris-gateway
  * Description: Gerbang pembayaran QRIS dinamis & otomatis untuk WordPress & WooCommerce. Dilengkapi auto-check status real-time, webhook callback verifikasi tanda tangan HMAC-SHA256, dan dukungan kursus online HaoHao Mandarin.
  * Version: 1.2.0
- * Author: Ahmad Yusuf Arifin
- * Author URI: https://github.com/yusufarifin100
+ * Author: HaoHao Mandarin Team
+ * Author URI: https://haohaomandarin.com
  * Text Domain: haohao-qris
  * Domain Path: /languages
  * Requires at least: 5.8

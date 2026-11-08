@@ -81,6 +81,5 @@ File instalasi siap pakai tersedia di folder `/dist`:
 
 ---
 
-## 👨‍💻 Pengembang
-Dikembangkan oleh **Ahmad Yusuf Arifin**  
-*Portfolio Project for HaoHao Mandarin Freelance WordPress Developer Role*
+## 👨‍💻 Project Developer
+Dipersiapkan untuk seleksi posisi **Freelance WordPress Developer HaoHao Mandarin**.
